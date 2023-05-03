@@ -28,7 +28,7 @@ include("foot.php")
 <script >  
 
 document.title="Pablo Maila"; 
-document.getElementById("foto").src="./images/Maila.jpg";
+document.getElementById("foto").src="./images/maila.jpeg";
 document.getElementById("elnombre").innerHTML="Pablo Maila";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
