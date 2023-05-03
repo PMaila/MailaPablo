@@ -10,7 +10,7 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
-	<link href="images/Maila.jpg" rel="shortcut icon" type="image/x-icon" />
+	<link href="images/maila.jpeg" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="Biografía de Maila Pablo" />
 
 	<meta property="og:image" content="/images/Maila.jpg" />
